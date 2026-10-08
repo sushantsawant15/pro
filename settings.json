@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shshankprogod-pfvN.aternos.me:15412",
-    "port": 75375,
+    "ip": "shshankprogod-pfvN.aternos.me",
+    "port": 15412,
     "version": "1.21.1"
   },
   "position": {
